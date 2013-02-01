@@ -1,0 +1,16 @@
+/* ===== Primary Styles ========================================================
+   Author: Saman Sedighi Rad
+   ========================================================================== */
+
+body {
+	padding-top: 60px;
+	padding-bottom: 40px;
+	background: url("../img/lyonnette.png") repeat scroll 0 0 transparent;
+}
+canvas#cvs {
+    background: none repeat scroll 0 0 white;
+    border: 1px solid lightgray;
+    box-shadow: 0 0 4px lightgray;
+    padding: 10px;
+}
+h2 { margin-bottom: 15px; }
