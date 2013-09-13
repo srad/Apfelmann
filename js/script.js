@@ -1,7 +1,7 @@
 /*
 Author: Saman Sedighi Rad
 http://ssrad.org/
-If you want to use the code, contact me: http://ssrad.org/contact
+MIT License.
 */
 (function () {
 	'use strict';
